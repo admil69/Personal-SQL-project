@@ -1,7 +1,3 @@
-# Personal-SQL-project
-So, here we are presenting an attractive GitHub README template page for your 36SQl projects. This template is used to draw potential customers and other programmers attention, showing your projects destination, features and evolution.
-
----
 
 🗄️ 36 SQL Projects : Mastering SQL from Basics to Advanced
 
